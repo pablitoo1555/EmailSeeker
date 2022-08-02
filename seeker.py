@@ -10,7 +10,7 @@ class MsgParser:
 
     def iso_msg(self, msg):
         create_dir(output_dir)
-        if msg.subject == self.subject:
+        if msg.subject in self.subject:
             self.save_attachment(msg)
             print('Message Found')
 

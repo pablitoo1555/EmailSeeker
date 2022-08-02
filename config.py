@@ -1,5 +1,5 @@
 # Subject that we want to search inbox for
-subject = '864064 Consolidated And Position Statement COB 22/07/2022'
+subject = '864064 Consolidated And Position Statement COB'
 
 # Folder where emails are saved in Outlook
 trg_folder = 'Swap'
